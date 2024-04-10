@@ -5,7 +5,7 @@
     },
     "data": {
       "address": "C/Tapiodes 123 08221 Viladecans",
-      "email": "paco@gmail.com",
+      "email": "paca@gmail.com",
       "registration_date": {
         "$date": "2024-05-15T10:30:00.000Z"
       },
@@ -71,13 +71,13 @@
     },
     "data": {
       "address": "C/ Marin Cristien 312 08221 Castelldefels",
-      "email": "paula@gmail.com",
+      "email": "pamela@gmail.com",
       "registration_date": {
         "$date": "2024-04-01T08:00:00.000Z"
       },
       "phone": "555 123 789"
     },
-    "client_name": "Pamelo Romero",
+    "client_name": "Pamela Romero",
     "client_id": 2,
     "recommended_by": {
       "$oid": "760c829f68a5b9c2177e5a11",
