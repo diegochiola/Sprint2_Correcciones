@@ -1,0 +1,16 @@
+[{
+  "_id": {
+    "$oid": "760c829f68a5b9c2177e5a12"
+  },
+  "last_name": "Morrinson",
+  "first_name": "Dolores",
+  "employee_id": 1
+},
+{
+  "_id": {
+    "$oid": "760c829f68a5b9c2177e5a14"
+  },
+  "last_name": "Gomez",
+  "first_name": "Raul",
+  "employee_id": 2
+}]
